@@ -1,4 +1,4 @@
-!     Model to profile Temperture with respect to layers of atmosphere.
+!     Model to profile Temperature with respect to layers of the atmosphere.
 !     Record of Revisions
 !     Date                 Programmer              Description of change
 !     =====                ==========              =====================
